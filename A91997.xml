@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolution of the Hollanders concerning their fisher-men in the Northern seas; with the peoples arming themselves; their threatning declaration against their magistrates; and Vantrumps returning into the Downs with above a hundred sail, and his design against the English. Also a fight a sea between the English and the Dutch, with the particulars thereof, and the number of ships sunk and taken on both sides. With a full and ample relation of the mischief done by the great fire at Amsterdam. Likewise, the proceedings of the King and Court of France, and the Parliament of Paris: as also the hanging of divers of the Parliaments souldiers in Scotland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91997</idno>
+            <idno type="STC">Wing R2</idno>
+            <idno type="STC">Thomason E671_6</idno>
+            <idno type="STC">ESTC R207061</idno>
+            <idno type="EEBO-CITATION">99866135</idno>
+            <idno type="PROQUEST">99866135</idno>
+            <idno type="VID">118399</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91997)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118399)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E671[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolution of the Hollanders concerning their fisher-men in the Northern seas; with the peoples arming themselves; their threatning declaration against their magistrates; and Vantrumps returning into the Downs with above a hundred sail, and his design against the English. Also a fight a sea between the English and the Dutch, with the particulars thereof, and the number of ships sunk and taken on both sides. With a full and ample relation of the mischief done by the great fire at Amsterdam. Likewise, the proceedings of the King and Court of France, and the Parliament of Paris: as also the hanging of divers of the Parliaments souldiers in Scotland.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed on p.5: Amsterdam, Iuly 19. st:n: 1652. A:R.</note>
+                  <note>Annotation on Thomason copy: "July. 20.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tromp, Maarten Harpertsz., 1598-1653.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118399:1" rendition="simple:additions"/>
+            <p>THE RESOLVTION OF THE HOLLANDERS <hi>CONCERNING</hi> Their Fiſher-men in the Northern Seas; with the peoples arming themſelves; their threatning Declaration againſt their Magiſtrates; and Vantrumps returning into the Downs with above a hundred ſail, and his deſign againſt the Engliſh.</p>
+            <p>ALSO A Fight at Sea between the Engliſh and the Dutch, with the particulars thereof, and the number of ſhips ſunk and ta<g ref="char:EOLhyphen"/>ken on both ſides. With a full and ample Relation of the miſchief done by the great fire at Amſterdam.</p>
+            <p>LIKEWISE, The Proceedings of the King and Court of France, and the Parliament of Paris: As alſo the hanging of divers of the Parliaments ſouldiers in Scotland.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>E. C.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:118399:2"/>
+            <pb n="3" facs="tcp:118399:2"/>
+            <head>THE RESOLUTION Of the HOLLANDERS Concerning Their Fiſhermen in the Northern Seas; and the threat<g ref="char:EOLhyphen"/>ning Declaration of the people againſt their Magi<g ref="char:EOLhyphen"/>ſtrates. Alſo the particulars of a Fight at SEA.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN my laſt I acquainted you that a great fire had hap<g ref="char:EOLhyphen"/>pened in this Town; but could not then give you the certain Relation of the harm there done: I ſhall there<g ref="char:EOLhyphen"/>fore endeavour to give you the more ample ſatisfaction now: the manner thus. On the ſeventh inſtant about two a Clock in the morning (caſually by accident) the Fire
+<pb n="4" facs="tcp:118399:3"/>took in the Town-houſe, burning all the morning, and indeed moſt part of the day with great violence, ſo that notwithſtanding all the diligent and induſtrious care uſed by the Magiſtrate for the allaying and quenching the fu<g ref="char:EOLhyphen"/>rious flame, it prevailed ſo far, that the whole Fabrick of that ſtately Houſe was burned down to the ground: Yet was it a wonder that it did no more miſchief then it did. But the mercy and care of God for the fatherleſs did ap<g ref="char:EOLhyphen"/>pear, in that all the Deeds for Orphans were ſaved, as al<g ref="char:EOLhyphen"/>ſo the Records, and moſt (if not all) of the Writings of the Bank, with many other Papers belonging to, and concerning particular perſons. There were ſome Jews, who were more diligent about the Fire then was needful, for their diligence was onely a colour to their evil intent, viz. To carry away what they could get, ſome of them laying hold upon ſeveral bags of Duckats of a great va<g ref="char:EOLhyphen"/>lue, they were ſuſpected and followed, and being ſeized, ſome of the Gold was found about them: they ſtand committed to Goale, and will ſpeedily be brought to a tryal, where they ſhall (no doubt) receive the reward due to ſo heinous a Crime, and be made exemplary to all ſuch as come (in ſuch caſes) rather to ſteal and carry away, then to help or comfort ſuch as are afflicted. The Magiſtrates cauſed the City gates to be ſhut all that day, and drew the Chains placing Guards about the City in all ſuch places where conveniently they might. Many reports have been raiſed touching the occaſion of this Fire; divers are ſuſpected to be the Authors thereof, but no certainty appeareth of any, but it is conjectured to be done of meer purpoſe.</p>
+            <p>There is a vaſt diſparity both in the minds and faces of men here; ſome wiſhing peace and amity with England, but that party is inconſiderable; others ſeek for nothing more then how to vent their rage againſt the Engliſh, yet
+<pb n="5" facs="tcp:118399:3"/>even theſe are not at one amongſt themſelves, but are di<g ref="char:EOLhyphen"/>vided, ſome aſperſing the States for not proceeding with more vigour in their cauſe, others again endeavouring to excuſe them; but all in general are againſt the Engliſh, ſwearing, that their former Name and Reputation as Ma<g ref="char:EOLhyphen"/>ſters and Lords of the Sea muſt and ſhall have an end, and that they muſt not think always to keep poſſeſſion of that which ought to be free and common to all.</p>
+            <p>Here is lately come News, That the Engliſh Admiral hath been among our Buſſes in the North, and that he hath ſeized upon great numbers of them (though not without ſtrong oppoſition, there having been a ſharp diſpute for about 3 hours, between the Engliſh party and the Durch Men of war that were for their Guard) ſome ſay 130 Buſſes, ſome ſay more, beſides 4 Men of War, and one ſunk; but alſo that the Engliſh have loſt 2 Men of War, very gallant Frigats. I cannot aver this for truth, but it paſſeth currantly here; inſomuch that the Bores fearing to be half ſtarved for want of their Fiſhing, arm them<g ref="char:EOLhyphen"/>ſelves apace, and grow very deſperate, Declaring, <hi>That if their Lords do not provide ſome ſpeedy remedy in this Caſe, they will pull them out of their houſes headlong, and tear them peece-meal.</hi> So that they dare hardly ſhew themſelvs.</p>
+            <p>Great is the talk here of Vantrumps return into the Downs again with above 100 ſail of luſty ſtout ſhips (having ſent 70 more towards the North parts to en<g ref="char:EOLhyphen"/>counter with Gen. Blake, and free their Fiſhermen from him. Mean time he with his Fleet will attend the motion of the Engliſh in the Downs, and fall upon, ſink, burn and deſtroy them as he can light on them; as alſo to keep o<g ref="char:EOLhyphen"/>thers from comming to joyn with them. This all at pre<g ref="char:EOLhyphen"/>ſent from</p>
+            <closer>
+               <dateline>
+                  <hi>Amsterdam,</hi> 
+                  <date>
+                     <hi>Iuly</hi> 19. <hi>ſt:n:</hi> 1652.</date>
+               </dateline>
+               <signed>Your moſt humble ſervant, <hi>A. R.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:118399:4"/>
+            <head>A Letter from <hi>France.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WE hear from Piccardy that the Count de Fuen<g ref="char:EOLhyphen"/>ſardagn who is General of the Spaniſh army, af<g ref="char:EOLhyphen"/>ter many days march is come to Noyen, a Town diſtant about 22 leagues from hence, which put them all to a great fear, thinking they intended to have beſieged it, but it proved otherwiſe, for they turned aſide to a place cal<g ref="char:EOLhyphen"/>led Chauni, where having made their approaches, the Town was compelled to yield at mercy, there was many perſons of quality found therein, as the Duke Delbeuf, the chief Marſhal Manicamp, and many others; it is thought that ſince the ſaid General is ſate down with his army before Noyon, which he intends to take in with Roy and Mendidier. The 17 inſtant, the King and all the Court departed from St. Dennis, and went to Penthoiſe, which is a Town in the road between this City and Roan; it doth not hold true concerning the departing of the Cardinal, he having onely plaid leaſt in ſight for a while the better to beguile the Princes and this City, before the Commiſſioners had audience, where after many words paſſed, he deſired them to come to Penthoiſe, which having denied, the King moved that they would ſend to the Parliament, that they may ſend a greater number of Commiſſioners, and alſo the Princes, that they might come to a conference, and ſeek the means to compoſe all differences; the Commiſſioners thus remaining at St. Dennis, as they were deſired, ſent an expreſſe to acquaint
+<pb n="7" facs="tcp:118399:4"/>the Parliament of what had paſſed, who thereupon orde<g ref="char:EOLhyphen"/>red that they ſhould return without delay; and ſo make their report to the houſe: and the next day the Prince of Conde went in perſon with 800 horſe to bring them home, and the Duke of Orleans went alſo out of this City with many attendants, and met them on the way, and ſo they came to this City, where all manner of pro<g ref="char:EOLhyphen"/>viſion chiefly bread, are ſtill at an exceſſive rate, the poor people being brought to a very great extremity. The 18 the Parliament being ſa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, all the Chambers aſſembled, the Commiſſioners made a large report of that had paſ<g ref="char:EOLhyphen"/>ſed at Court, and afterwards they entred upon debate of many great buſineſſes, chiefly of that which concerneth the appointing the Duke of Orleans as Regent or Protect<g ref="char:EOLhyphen"/>our of France during the Kings detention by his mother and the Cardinal, the buſineſſe is not as yet perfected, therefore not paſſed as was reported. The Spaniſh army is ſtill in the River of Bourdeaux, their General the Lord Vateuille having fortified Bourg near Bourdeaux, and placed there a ſtrong Gariſon, and now going for Boarg, to joyn with the Count du Daugnon, that ſo they may be able to encounter the Kings Fleet, who is daily expec<g ref="char:EOLhyphen"/>ted under the command of the Duke of Vendoſm, who is High Admiral of France.</p>
+            <p>We hear from Bourdeaux, that thoſe that are called of the Elm-houſe get dayly more authority; being aſ<g ref="char:EOLhyphen"/>ſembled the 7th inſtant it was reſolved, That the four<g ref="char:EOLhyphen"/>teen Officers or Members of Parliament which were ba<g ref="char:EOLhyphen"/>niſhed and called in again, ſhould again depart the City, That the Jurats and other ſuſpected perſons, ſhould be laid hold on, and carried forthwith to priſon, and ſome to be baniſhed during life.</p>
+            <closer>
+               <dateline>Paris <date>July 20, 1652.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:118399:5"/>
+            <head>A Letter from Scotland.</head>
+            <p>SIR, Here is great hopes of a ſpeedy ſettlement of theſe parts, the chiefeſt of the Gentry tendring their ſubmiſſion to the Commonwealth of England. The diſ<g ref="char:EOLhyphen"/>cipline of war is exerciſed very ſtrictly amongſt our ſol<g ref="char:EOLhyphen"/>diers to keep them from ſtragling and plundering. A Court Martial was held in the field near Blair, where many were tried, three or four for Life and Death, but ſuſpended till further proof: Eight received ſentence for ſtragling from their colours, and plundering: One of them to be hanged on ſuch a manner, that he might ſtand on tip toes, and to receive a laſh as every Diviſion of the Regiment paſſed by, and to have his Ear cut, and to be caſhiered the Army; another was ſentenced to be hang<g ref="char:EOLhyphen"/>ed by the arm-pits whileſt the Regiment marched by; A third to be tied to a tree, and to receive thirty ſtripes. Here is little News concerning General Blake and his na<g ref="char:EOLhyphen"/>vy, onely that he hath taken many Buſſes, and one or two Men of War that were for a Guard to them; ſome of them he hath ſent towards Dunbar, where in ſhort ſpace (we do not doubt) but they will well and ſafely ar<g ref="char:EOLhyphen"/>rive.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
